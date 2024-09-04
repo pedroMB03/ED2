@@ -17,10 +17,16 @@ Java
 ```
 ## Feitos
 
-No dia 01/09/2024, foi concluído o código do método de ordenação Selection Sort. Atualmente foram feitos:
+No dia 04/09/2024, foram feitos os códigos vistos em sala de aula. Todos esses foram implementados e armazenado no repositório em C:
 
 ```bash
 Insertion Sort
+Selection Sort
+merge Sort
+```
+Nesse mesmo dia, foi inserido o código em Python, linguagem que será utilizada nas avaliações de classe:
+
+```bash
 Selection Sort
 ```
 
