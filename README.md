@@ -1,6 +1,6 @@
 # Objetivo
 
-O objetivo desse repositório é inmplementar os códigos feitos nas aulas da cadeira de Arvores e Ordenação, como conhecida anteriomente, Estrutura de dados 2, pelo Porfessor Leonardo.
+O objetivo desse repositório é implementar os códigos feitos nas aulas da cadeira de Arvores e Ordenação, como conhecida anteriomente, Estrutura de dados 2, pelo Porfessor Leonardo.
 
 ## Assuntos
 
@@ -22,7 +22,7 @@ No dia 04/09/2024, foram feitos os códigos vistos em sala de aula. Todos esses 
 ```bash
 Insertion Sort
 Selection Sort
-merge Sort
+Merge Sort
 ```
 Nesse mesmo dia, foi inserido o código em Python, linguagem que será utilizada nas avaliações de classe:
 
