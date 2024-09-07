@@ -17,17 +17,19 @@ Java
 ```
 ## Feitos
 
-No dia 04/09/2024, foram feitos os códigos vistos em sala de aula. Todos esses foram implementados e armazenado no repositório em C:
+No dia 07/09/2024, foram feitos os códigos vistos em sala de aula. Todos esses foram implementados e armazenado no repositório em C:
 
 ```bash
 Insertion Sort
 Selection Sort
 Merge Sort
+Heap Sort
 ```
 Nesse mesmo dia, foi inserido o código em Python, linguagem que será utilizada nas avaliações de classe:
 
 ```bash
 Selection Sort
+Heap Sort
 ```
 
 
