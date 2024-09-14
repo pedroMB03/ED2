@@ -1,0 +1,32 @@
+Dentro dessa pasta, será amazernada a explicação dos tipos de ordenação feitos nas outras pastas
+
+INSERTION SORT
+
+De uma forma resumida, insertion sort é um tipo de ordenação relativamente simples.
+O código vai percorrendo a lista e ao "analisar" cada item da lista, ele já vai posicionando
+cada número em seu determinado lugar corretamente. O modo de ordenação insertion sort, é de 
+complexidade O(n^2) no pior caso.
+
+Ex:
+
+lista = [29, 10, 14, 37, 13]
+
+Nesse caso, o programa sempre começa pelo segundo número; 
+Vai ler o 10 e inseri-lo na chave(numero que iremos organizar);
+Logo após, ele compara com o próximo(vendo se é maior ou não);
+Caso seja menor, ele troca as posições;
+Por fim, ele reinicia a leitura colocando a chave no próximo número de lista;
+
+i = 1 / chave 10
+Lista = [10, 29, 14, 37, 13]
+
+i = 2 / chave 14
+Lista = [10, 14, 29, 37, 13]
+
+i = 3 / chave 37
+Lista = [10, 14, 29, 37, 13]
+
+i = 4 / chave 13
+Lista = [10, 13, 14, 29, 37]
+
+FIM!
