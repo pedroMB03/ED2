@@ -28,8 +28,7 @@ Heap Sort
 Nesse mesmo dia, foi inserido o código em Python, linguagem que será utilizada nas avaliações de classe:
 
 ```bash
+Insertion Sort
 Selection Sort
-Heap Sort
+Heap Sort / min-Heap Sort
 ```
-
-
