@@ -1,0 +1,29 @@
+Dentro dessa pasta, será amazernada a explicação dos tipos de ordenação feitos nas outras pastas
+
+MERGE SORT
+
+A função merge sort é uma forma de ordenação onde o vetor é dividido em subvetores tenham 
+apenas um numero e após isso, o merge vai juntando e ordenando essas pequenas partes até 
+que se forme o vetor original totalmente organizado. Sua complexidade em todos os casos é
+de O(NlogN), pois o vetor é dividido e, em seguida é todos os elementos são percorridos na
+Ordenação.
+
+EX:
+
+lista = [38, 27, 43, 3, 9, 82, 10]
+
+1° etapa:
+[38, 27, 43] e [3, 9, 82, 10]
+[38] [27, 43] depois [27] e [43]
+
+assim por diante até que todos sejam divididos
+
+2° etapa:
+[27] [43] -> [27, 43]
+[38] [27,43] -> [27, 38, 43]
+
+assim por diante até que:
+
+lista = [3, 9, 10, 27, 43, 82]
+
+FIM!
