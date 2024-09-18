@@ -25,10 +25,11 @@ Selection Sort
 Merge Sort
 Heap Sort
 ```
-Nesse mesmo dia, foi inserido o código em Python, linguagem que será utilizada nas avaliações de classe:
+No dia 18/09/2024, foi inserido em Python, linguagem que será utilizada nas avaliações de classe:
 
 ```bash
 Insertion Sort
 Selection Sort
+Merge Sort
 Heap Sort / min-Heap Sort
 ```
