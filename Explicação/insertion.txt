@@ -5,7 +5,7 @@ INSERTION SORT
 De uma forma resumida, insertion sort é um tipo de ordenação relativamente simples.
 O código vai percorrendo a lista e ao "analisar" cada item da lista, ele já vai posicionando
 cada número em seu determinado lugar corretamente. O modo de ordenação insertion sort, é de 
-complexidade O(n^2) no pior caso.
+complexidade O(n^2) no pior caso e de O(n) no melhor caso.
 
 Ex:
 

@@ -1,0 +1,26 @@
+Dentro dessa pasta, será amazernada a explicação dos tipos de ordenação feitos nas outras pastas
+
+SELECTION SORT
+
+O selection sort é muito precido com o insertion, porém a maior diferença dos dois, é que enquanto o insertion vai lendo a lista aos poucos
+ordenando os numeros da lista. Já no selection, ele percorre toda a lista identificando o menor numero da lista e após acha-lo,
+compara o  primeiro(tecnicamente, o menor) e troca de lugar, esse processo é repetido diversas veze até a ordenação. Sua complexidade é
+ de O(n^2) também.
+
+ Ex:
+
+ lista = [65, 25, 12, 22, 11]
+
+ 1° iteração
+ chave = 11 ( menor)
+ lista = [11, 25, 12, 22, 65]
+
+ 2° iteração
+ chave  = 12 ( menor após o 11)
+ lista = [11, 12, 25, 22, 65]
+
+ 3° iteração
+ chave = 22
+ lista = [11, 12, 22, 25, 65]
+
+ FIM!
