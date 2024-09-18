@@ -1,0 +1,22 @@
+Dentro dessa pasta, será amazernada a explicação dos tipos de ordenação feitos nas outras pastas
+
+QUICK SORT
+
+No quick sort escolhemos um número dentro da lista e o chamamos de pivô, é a partir dele que 
+começamos a ordenar o resto dos numeros, podendo ser maiores que ele, ficando a direita ou 
+menores a esquerda e por fim, há a união dos lados junto com o pivô e o vetor ordenado. Sua
+complexidade é de O(NlogN) no melhor e médio caso e no pior é de O(N^2).
+
+EX:
+
+Lista = [10, 80, 30, 90, 40, 50, 70]
+pivô = 70
+
+[10, 30, 40, 50, 70, 90, 80]
+
+após isso, entramos na recursividade e escolhemos novamente o pivô porém, em um meio específico
+apenas para resolver pequenas questões de ordenamento.
+
+lista final = [10, 30, 40, 50, 70, 80, 90]
+
+FIM!
