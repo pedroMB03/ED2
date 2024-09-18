@@ -1,0 +1,30 @@
+Dentro dessa pasta, será amazernada a explicação dos tipos de ordenação feitos nas outras pastas
+
+HEAP SORT
+
+No heap sort, a ordenação é para usar não em vetores comuns mas sim em árvores binarias, onde
+dependendo, o elemento mais alto ou mais baixo, é o pai e suas ramificações são os filhos. O
+Heap sort pode ser MAX-Heap e MIN-Heap(dependendo da relação do pai com o filho, se for maior
+ou menor, respectivamente). Sua complexidade é de O(NlogN) em todos os casos.
+
+EX:
+
+       15
+      /  \
+     10   8
+    /  \   
+   5    12
+
+Nesse caso, trocamos o lugar do 12 e do 8, pois na ordenação do heap sort, ele não organiza de
+forma crescente mas sim de forma que respeite a regra e sequência da árvore.
+
+No exemplo, a árvore é do tipo max, então o código troca-la o lugar do 12 (recebendo na função
+um "i", sendo a posição), e então vai troca-la com o 8.
+
+       15
+      /  \
+     10   12
+    /  \   
+   5    8
+
+FIM!
